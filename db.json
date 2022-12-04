@@ -1,0 +1,69 @@
+{
+    "latest": [
+      {
+        "id": "ebcbabfa5062450392fd77ca7415dc4f",
+        "name": "The Shawshank Redemption",
+        "language": "ENGLISH",
+        "type": "Drama",
+        "rate": 5,
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UX307_CR0,0,307,455_AL_.jpg"
+      },
+      {
+        "id": "baa6c42971934f3894c4ade82f0c1280",
+        "name": "The Godfather",
+        "language": "ENGLISH",
+        "type": "Crime Drama",
+        "rate": 5,
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY307_CR1,0,307,455_AL_.jpg"
+      },
+      {
+        "id": "f3a4c6f9881d450fb0f5da951c982cb6",
+        "name": "The Dark Knight",
+        "language": "ENGLISH",
+        "type": "Action Crime Drama",
+        "rate": 4,
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_UX307_CR0,0,307,455_AL_.jpg"
+      },
+      {
+        "id": "198a60f72be14cf580c1bbdd1ac43358",
+        "name": "The Godfather: Part II",
+        "language": "ENGLISH",
+        "type": "Crime Drama",
+        "rate": 4,
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY307_CR1,0,307,455_AL_.jpg"
+      },
+      {
+        "id": "1ad3dde73f9148b391cd8c8b43e867f8",
+        "name": "12 Angry Men",
+        "language": "ENGLISH",
+        "type": "Crime Drama",
+        "rate": 4,
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_UX307_CR0,0,307,455_AL_.jpg"
+      },
+      {
+        "id": "a485425fa5ae43b1952566b064ac0d0c",
+        "name": "The Lord of the Rings: The Return of the King",
+        "language": "ENGLISH",
+        "type": "Action Adventure Drama",
+        "rate": 4,
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UX307_CR0,0,307,455_AL_.jpg"
+      },
+      {
+        "id": "19b986df5d484f1097e64a5ba0ab5ec6",
+        "name": "Pulp Fiction",
+        "language": "ENGLISH",
+        "type": "Crime Drama",
+        "rate": 4,
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_UY307_CR0,0,307,455_AL_.jpg"
+      },
+      {
+        "id": "c8e7dafb350a4e72858f629c2398939e",
+        "name": "Schindler's List",
+        "language": "ENGLISH",
+        "type": "Biography Drama History",
+        "rate": 4,
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_UX307_CR0,0,307,455_AL_.jpg"
+      }
+    ]
+  }
+  
