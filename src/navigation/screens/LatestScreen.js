@@ -19,15 +19,17 @@ const LatestScreen = ({ navigation }) => {
   }, []);
 
   const itemDetailsHandler = (movie) => {
-    console.log(movie)
-    navigation.navigate(PARAMS.MOVIE_DETAILS, {id: movie.id})
+    navigation.navigate(PARAMS.MOVIE_DETAILS, { id: movie.id });
   };
 
   const renderMovies = movies.map((movie) => {
     return (
       <View style={styles.item} key={movie.id}>
         <Text style={styles.text}>{movie.name}</Text>
-        <TouchableOpacity style={styles.button} onPress={itemDetailsHandler.bind(this, movie)}>
+        <TouchableOpacity
+          style={styles.button}
+          onPress={itemDetailsHandler.bind(this, movie)}
+        >
           <Text style={styles.textButton}>Details</Text>
         </TouchableOpacity>
       </View>
